@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cryotalis
-- 👀 I play Dungeon Defenders 2 and Granblue Fantasy
+- 🎮 I play Dungeon Defenders 2 and Granblue Fantasy
 - 🌱 Currently learning Python
 - 📫 Discord: Cryo#4704, Twitter: @Cryotalis
 
