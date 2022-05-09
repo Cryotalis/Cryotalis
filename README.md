@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cryotalis
 - 🎮 I play Dungeon Defenders 2, Arknights, and Granblue Fantasy
-- 🌱 Currently learning Python, Typescript, and C
+- 🌱 Currently learning TypeScript and Python
 - 📫 Discord: Cryo#4704, Twitter: @Cryotalis
 
 <!---
