@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cryotalis
 - 🎮 I play Dungeon Defenders 2, Arknights, and Granblue Fantasy
 - 🌱 Currently learning TypeScript
-- 📫 Discord: Hywell#4704
+- 📫 Discord: hywell.
 
 <!---
 Cryotalis/Cryotalis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
