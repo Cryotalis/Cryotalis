@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Cryotalis
-- 🎮 I play Dungeon Defenders 2, Arknights, and Granblue Fantasy
-- 🌱 Currently learning TypeScript
+- 🎮 I play Granblue Fantasy and Summoners War
+- 🌱 Currently learning C++
+- ⌨️ Currently learning the Colemak-DH keyboard layout
 - 📫 Discord: hywell.
 
 <!---
