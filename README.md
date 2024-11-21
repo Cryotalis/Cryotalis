@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cryotalis
-- 🎮 I play Granblue Fantasy and Summoners War
+- 🎮 I play Granblue Fantasy
 - 🌱 Currently learning C++
-- ⌨️ Currently learning the Colemak-DH keyboard layout
+- ⌨️ Currently learning the Colemak-DHm keyboard layout
 - 📫 Discord: hywell.
 
 <!---
