@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Cryotalis
-- 🎮 I play Granblue Fantasy
+- 🎮 I play Rocket League and Granblue Fantasy
 - 🌱 Currently learning C++
 - ⌨️ Currently learning the Colemak-DHm keyboard layout
 - 📫 Discord: hywell.
